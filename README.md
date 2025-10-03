@@ -15,8 +15,8 @@ This project contains basic MongoDB operations including installation, database 
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-link>
-   cd mongo-assignment
+   git clone https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Wales254
+   cd Assignment
    ```
 
 2. **Install dependencies**
