@@ -175,6 +175,4 @@ async function insertBooks() {
   }
 }
 
-// Run the function
-insertBooks().catch(console.error);
-
+module.exports=insert_books;
