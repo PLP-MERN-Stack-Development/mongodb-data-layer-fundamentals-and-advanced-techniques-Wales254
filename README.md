@@ -90,5 +90,5 @@ This project contains basic MongoDB operations including installation, database 
 
 ## ✍️ Author
 
-Assignment completed by **Sydney Wesonga Walusala**
-KCA University
+Assignment completed by *Sydney Wesonga Walusala*
+
